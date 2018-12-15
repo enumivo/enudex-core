@@ -1,0 +1,3 @@
+#ifndef HARDFORK_CORE_216_TIME
+#define HARDFORK_CORE_216_TIME (fc::time_point_sec( 1512747600 ))
+#endif

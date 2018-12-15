@@ -1,0 +1,41 @@
+  "initial_balances": [{
+      "owner": "EDXHYhQcrjVg5kBzCoeeD38eQdncCC5pBgee",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDXPgQZg5929ht1NBdEvsGKqoQ7buRu3nKf4",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDXC9zrLXSAPUQaVmQPk1S9dMqSzT7jPqYU7",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDX93aQPtbbkXwaSjtHaREsNVcCvbfHo93aZ",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDX6RM4UfsYFPDuhbmgkvDS9ip8Kvqundvyk",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDXNVkZXdqWWSzqHVxvfetMe347is6kEkC4K",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDX5GHzWZ64Luoajqsz6JGjTKVMgWYkGV9SQ",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDXDCVRFez92bW9doRLjnFCKLJnpM58mgmMb",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDX5CCdX3JYLBptYMuCjbsezqGYzN9vG9JCu",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
+      "owner": "EDXEQ3yQdr3EMDL2eRqGiceMCpoanaW16Puw",
+      "asset_symbol": "CORE",
+      "amount": 100000000000
+    },{
